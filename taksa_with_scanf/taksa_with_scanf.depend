@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473607427 source:d:\lessons\c\taksa_with_scanf\main.c
+	<stdio.h>
+	<stdlib.h>
+
