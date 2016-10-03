@@ -1,6 +1,6 @@
 # taksa (a dog)
 
-I learn here.
-You can see 
-my bad english 
+I learn here.\n
+You can see \n
+my bad english \n
 and my bad C...
