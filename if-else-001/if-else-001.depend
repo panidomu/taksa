@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475521410 source:d:\lessons\git_lesson\taksa\if-else-001\main.c
+	<stdio.h>
+	<stdlib.h>
+
