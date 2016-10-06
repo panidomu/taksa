@@ -6,21 +6,21 @@
 
 int main()
 {
-    int x, y;
+    int cost, mymoney;
     printf ("How much is the cake? \n");
-    scanf("%d",&x);
+    scanf("%d",&cost);
     printf ("And how much money I have? \n");
-    scanf("%d",&y);
+    scanf("%d",&mymoney);
 
     //условия в if пишем в скобках,  точку с запятой в этих строках не ставим!
 
-    if (x==y)
+    if (cost==mymoney)
         printf("One cake, please!\n");
 
-    if (x<y)
+    if (cost<mymoney)
         printf("It's my day!where is my cake?\n");
 
-    if (x>y)
+    if (cost>mymoney)
         printf("Sorry, I forgot that I am on a diet...\n");
 
     return 0;
