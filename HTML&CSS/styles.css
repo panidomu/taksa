@@ -1,0 +1,15 @@
+body{
+	background-color:gray;
+	font-family: arial;
+	color:blue;
+	}
+
+h1, h2{
+	font-family:mistral;
+	color:magenta;
+	border-bottom:1px solid red;
+	}
+
+h1{
+	border-bottom:2px solid red;
+	}	
