@@ -1,0 +1,24 @@
+Делаем один раз для репозиториев panidomu:
+
+git config --global user.name "panidomu"
+git config --global user.email panidomunn@gmail.com
+	git config --list
+	git status
+
+*******************************************
+Делаем один раз для каждого нового репозитория panidomu:
+
+git clone https://github.com/panidomu/taksa.git
+
+****************************************
+Делаем каждый раз для добавления проекта в репозиторий:
+(Заходим в папку проекта)
+git add .   (добавляем и индексируем файлы)
+	git status
+git commit -a -m "my_comments" (фиксируем текущее состояние файлов)
+git push (отправляем файлы в репозиторий )
+
+*******************************
+Копирование в Git Bush :
+Shift+Ins
+

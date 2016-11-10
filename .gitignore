@@ -1,8 +1,0 @@
-﻿# I want to see only *.c
-bin/
-obj/
-*.cpb
-*.depend
-*.layout
-*.md
-*.txt
