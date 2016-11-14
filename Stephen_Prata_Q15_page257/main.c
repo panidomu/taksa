@@ -9,7 +9,7 @@
 
 
 int main()
-{int NumberOfYears=1;
+{int NumberOfYears=0;
  int SumDaphne;
  int SumDeirdre;
  int RiseDaphne;
